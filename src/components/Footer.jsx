@@ -40,11 +40,11 @@ const Footer = () => {
         </div>
 
         <ul className="flex items-center justify-center gap-3 ">
-          <SocialIcon Icon={FaGithub} url={'https://github.com/Aniruddha-Gade'} />
-          <SocialIcon Icon={FaFacebookF} url={'https://github.com/Aniruddha-Gade'} />
-          <SocialIcon Icon={FaInstagram} url={'https://github.com/Aniruddha-Gade'} />
-          <SocialIcon Icon={FaTwitter} url={'https://github.com/Aniruddha-Gade'} />
-          <SocialIcon Icon={FaLinkedin} url={'https://github.com/Aniruddha-Gade'} />
+          <SocialIcon Icon={FaGithub} url={'https://github.com/Sivasanath06'} />
+          <SocialIcon Icon={FaFacebookF} url={'https://github.com/Sivasanath06'} />
+          <SocialIcon Icon={FaInstagram} url={'https://github.com/Sivasanath06'} />
+          <SocialIcon Icon={FaTwitter} url={'https://github.com/Sivasanath06'} />
+          <SocialIcon Icon={FaLinkedin} url={'https://github.com/Sivasanath0'} />
         </ul>
 
       </ContentWrapper>
