@@ -8,7 +8,6 @@ This app offers a responsive and visually appealing user interface that adapts s
 
 
 
-<img  align="center" width= 100%  src="https://raw.githubusercontent.com/aniruddha-gade/Movix-App/main/screenshots/gif.gif">  
 
 ## Tech Stack 🛠️
 
