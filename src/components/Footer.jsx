@@ -44,7 +44,7 @@ const Footer = () => {
           <SocialIcon Icon={FaFacebookF} url={'https://github.com/Sivasanath06'} />
           <SocialIcon Icon={FaInstagram} url={'https://github.com/Sivasanath06'} />
           <SocialIcon Icon={FaTwitter} url={'https://github.com/Sivasanath06'} />
-          <SocialIcon Icon={FaLinkedin} url={'https://github.com/Sivasanath0'} />
+          <SocialIcon Icon={FaLinkedin} url={'https://github.com/Sivasanath'} />
         </ul>
 
       </ContentWrapper>
