@@ -32,10 +32,7 @@ const Footer = () => {
         </ul>
 
         <div className="text-center text-xs md:text-sm leading-5 opacity-50 max-w-[800px] mb-5 md:mb-[30px] ">
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id veniam ipsa facere! Est consequatur,
-            explicabo laboriosam suscipit eius rem non amet ratione fugiat provident reprehenderit error?
-            Fuga iure quam sed atque, ipsum explicabo dignissimos! Voluptas vero facilis velit beatae totam.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, pariatur.
+          <p>Explore a diverse selection of the latest and highly acclaimed movies, perfect for any viewing preference. Whether you enjoy the cinematic experience, television broadcasts, or streaming services like Netflix, Amazon Prime Video, Hotstar, Voot, and Jio Cinema, we have curated a list of popular titles to help you choose your next watch.
           </p>
         </div>
 
