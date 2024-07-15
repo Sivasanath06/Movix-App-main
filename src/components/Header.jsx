@@ -98,7 +98,7 @@ const Header = () => {
     <header className={`${mobileMenu ? 'bg-black3' : ''} fixed flex items-center w-full h-[60px] z-[10] translate-y-0 transition-all ${showNavBar}`}>
       <div className='w-full flex items-center justify-between max-w-[1200px] mx-auto px-5'>
         <div className='cursor-pointer h-[50px] '>
-          <img src={logo} alt='Movix Logo' onClick={() => navigate('/')} />
+          <img src="https://raw.githubusercontent.com/aniruddha-gade/Movix-app/main/src/assets/movix-logo.png" alt='Movix Logo' onClick={() => navigate('/')} />
         </div>
 
         {/* list of menu items  */}
